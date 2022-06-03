@@ -1,0 +1,14 @@
+# README
+
+ A simple Python 3 script I wrote to download _most_ of [Mike Duncan's Revolutions](https://thehistoryofrome.typepad.com/revolutions_podcast/) podcast episodes.
+ 
+ It's not real elegant or anything. I wrote it in the few hours of time I had between getting home from work and my wife getting home later from work.
+ 
+ - Keeps track of downloaded episodes in 'done.txt'.
+ - Keeps track of episodes that failed to download in 'fail.txt'.
+ - Does not organize any episode.
+ - Some episodes fail to download because he decided to name them differently.
+ - Weird names from his initial choice of title names. (Going from 01-31 for the first two revolutions, then 3.1, 3.2, etc for later ones.)
+ 
+ 
+ Make it better. Don't. I don't care, I just wanted to download his episodes and put them on my nfs.
